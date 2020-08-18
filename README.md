@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ramesh Kumar, Machine Learning Engineer working at Rfrnz GmbH, Berlin, Germany
+I am Ramesh Kumar, Machine Learning Engineer at Rfrnz GmbH, Berlin, Germany
 
 Working in Machine Learning domain since 3 years. I have done several projects on Computer Vision (CV) as well as in Natural Language Processing (NLP).
 - 🔭 I’m currently working on Rfrnz GmbH, specifically focusing on NLP and CV.
