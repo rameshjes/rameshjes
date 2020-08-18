@@ -9,5 +9,4 @@ Working in Machine Learning domain since 3 years. I have done several projects o
 - 📫 Reach me on LinkedIn: [My Profile](https://www.linkedin.com/in/ramesh-kumar-4507a6aa/)
 
 ---
-
-[![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameshjes)](https://github.com/rameshjes/github-readme-stats)
+![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameshjes&show_icons=true)
