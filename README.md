@@ -2,7 +2,7 @@
 
 I am Ramesh Kumar, Machine Learning Engineer at Freshfields Bruckhaus Deringer, Berlin, Germany
 
-Working in Machine Learning domain since 3 years. I have done several projects on Computer Vision (CV) as well as in Natural Language Processing (NLP).
+Working in Machine Learning domain since 2017. I have done several projects on Computer Vision (CV) as well as in Natural Language Processing (NLP).
 - 🔭 I’m currently working on Freshfields Bruckhaus Deriner, specifically focusing on NLP and CV.
 - 🌱 I’m currently exploring and participating in Kaggle Competitions
 - 💬 Ask me about any thing reletad to Python and Machine Learning/Deep Learning
